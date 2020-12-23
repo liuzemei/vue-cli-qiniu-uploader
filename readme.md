@@ -46,13 +46,13 @@ module.exports = {
 }
 ```
 
-| 参数名    | 备注                         |
-| --------- | :--------------------------- | ------ | ------ | ------ | ---------- |
-| accessKey | 七牛云秘钥管理处申请或查看。 |
-| secretKey | 七牛云秘钥管理处申请或查看。 |
-| bucket    | 自己创建的空间名称           |
-| zone      | 目前支持 5 个区域(huadong    | huabei | huanan | beimei | dongnanya) |
-| url       | 配置的七牛加速域名           |
+| 参数名    | 备注                                                      |
+| --------- | :-------------------------------------------------------- |
+| accessKey | 七牛云秘钥管理处申请或查看。                              |
+| secretKey | 七牛云秘钥管理处申请或查看。                              |
+| bucket    | 自己创建的空间名称                                        |
+| zone      | 目前支持 5 个区域(huadong/huabei/huanan/beimei/dongnanya) |
+| url       | 配置的七牛加速域名                                        |
 
 4. 执行 `npm run build` 命令
 

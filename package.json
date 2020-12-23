@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-qiniu-uploader",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Vue-cli build auto upload qiniu",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/liuzemei/vue-cli-qiniu-uploader"
+    "url": "https://github.com/liuzemei/vue-cli-qiniu-uploader"
   },
   "keywords": [
     "vue-cli",
