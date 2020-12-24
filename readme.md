@@ -9,7 +9,7 @@
 1. 安装插件
 
 ```shell
-npm install vue-cli-plugin-qiniu-uploader
+npm install vue-cli-plugin-qiniu-uploader -D
 ```
 
 2. 在根目录下创建或修改配置文件

@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-qiniu-uploader",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Vue-cli build auto upload qiniu",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "upload"
   ],
   "author": "neo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/qiniu": "^7.0.1",
+    "qiniu": "^7.3.2"
+  }
 }
